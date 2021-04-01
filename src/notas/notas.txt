@@ -1,0 +1,21 @@
+import * as tfCore from "@tensorflow/tfjs-core";
+import * as tfData from "@tensorflow/tfjs-data";
+import * as tfConverter from "@tensorflow/tfjs-converter";
+import * as tfLayers from "@tensorflow/tfjs-layers";
+import * as tfVis from "@tensorflow/tfjs-vis";
+import * as faceApi from "face-api.js";
+
+const neuralNetworkTest = () => {
+  // tfCore.
+  // tfData.
+  // tfConverter.
+  // tfLayers.
+  // tfVis.
+  // faceApi.
+  return null;
+};
+
+export default neuralNetworkTest;
+
+
+$ yarn add @tensorflow/tfjs-node

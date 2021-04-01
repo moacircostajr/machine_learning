@@ -1,0 +1,14 @@
+{
+  "name": "machine_learning",
+  "version": "1.0.0",
+  "description": "A machine learning tutorial",
+  "main": "src/index.js",
+  "author": "Moacir Costa",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^3.3.0"
+  }
+}
