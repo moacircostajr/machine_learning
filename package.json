@@ -1,7 +1,7 @@
 {
   "name": "machine_learning",
   "version": "1.0.0",
-  "description": "A machine learning tutorial",
+  "description": "A machine learning environment study",
   "main": "src/index.js",
   "author": "Moacir Costa",
   "license": "MIT",
